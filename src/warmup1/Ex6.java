@@ -1,4 +1,4 @@
-package org.hc;
+package warmup1;
 
 public class Ex6 {
 
