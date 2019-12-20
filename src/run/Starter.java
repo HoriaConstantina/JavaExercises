@@ -80,7 +80,35 @@ public class Starter {
 //        ex17.arrayFront9(new int[]{1, 2, 9, 3, 4});
 
         /* Exercise 18 */
-        Ex18 ex18 = new Ex18();
-        ex18.array123(new int[]{1, 1, 2, 3, 1});
+//        Ex18 ex18 = new Ex18();
+//        ex18.array123(new int[]{1, 1, 2, 3, 1});
+
+        /* Exercise 19 */
+//        Ex19 ex19 = new Ex19();
+//        ex19.stringMatch("xxcaazz", "xxbaaz");#
+
+        /* Exercise 20 */
+//        Ex20 ex20 = new Ex20();
+//        ex20.stringX("xxHxix");
+
+        /* Exercise 21 */
+//        Ex21 ex21 = new Ex21();
+//        ex21.altPairs("kitten");
+
+        /* Exercise 22 */
+//        Ex22 ex22 = new Ex22();
+//        ex22.stringYak("yakpak");
+
+        /* Exercise 23 */
+//        Ex23 ex23 = new Ex23();
+//        ex23.array667(new int[]{6, 7, 2, 6, 6, 3, 5, 6, 6});
+
+        /* Exercise 24 */
+//        Ex24 ex24 = new Ex24();
+//        ex24.noTriples(new int[]{1, 1, 2, 2, 1});
+
+        /* Exercise 25 */
+//        Ex25 ex25 = new Ex25();
+//        ex25.has271(new int[]{1, 2, 7, 1});
     }
 }
